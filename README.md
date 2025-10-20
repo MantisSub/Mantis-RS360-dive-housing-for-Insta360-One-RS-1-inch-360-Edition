@@ -3,7 +3,7 @@
 ## Screws
 
 ### Latch
-4x M3x6mm SS304 countersunk flat head socket
+4x M3x5mm SS304 countersunk flat head socket
 
 ### Dome
 Ring batch 1 housings (ring 6mm high): 8x M4x10mm Aluminum countersunk flat head socket\
